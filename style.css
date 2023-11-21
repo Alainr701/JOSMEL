@@ -1,0 +1,8 @@
+body {
+  background: url("vista/assets/img/galeria/1.jpeg") no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 50px;
+}
